@@ -94,13 +94,7 @@ A modern, full-stack e-commerce platform built with **Next.js 15**, **TypeScript
 - Gmail account for email services
 
 
-### **1. Clone & Install**
 
-```shellscript
-git clone https://github.com/yourusername/mahadev-baby-shop.git
-cd mahadev-baby-shop
-npm install
-```
 
 ### **2. Environment Setup**
 
@@ -124,29 +118,6 @@ EMAIL_PASS=your-app-specific-password
 
 # Application URL
 NEXT_PUBLIC_APP_URL=
-```
-
-### **3. Gmail Setup for Email Services**
-
-1. Enable 2-Factor Authentication on Gmail
-2. Generate App Password:
-
-1. Google Account → Security → 2-Step Verification → App passwords
-2. Generate password for "Mail"
-3. Use this password in `EMAIL_PASS`
-
-
-
-
-
-### **4. Run Development Server**
-
-```shellscript
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
 ```
 
 

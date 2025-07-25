@@ -395,26 +395,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - **[Lucide](https://lucide.dev/)** - For the beautiful icon library
 
 
-## Support & Contact
-
-### **Technical Support**
-
-- **Email**: [mahadevbabyshop5@gmail.com](mailto:mahadevbabyshop5@gmail.com)
-- **GitHub Issues**: [Create an issue](https://github.com/yourusername/mahadev-baby-shop/issues)
-
-
-### **Business Inquiries**
-
-- **Phone**: +91 99137 37023, +91 98988 93380
-- **WhatsApp**: [Chat with us](https://wa.me/919913737023)
-- **Email**: [mahadevbabyshop5@gmail.com](mailto:mahadevbabyshop5@gmail.com)
-- **Address**: Vithalani Complex, Mangrol, Gujarat, India
-
-
-### **Social Media**
-
-- **Instagram**: [@mahadev_baby_shop](https://www.instagram.com/mahadev_baby_shop?igsh=eDlna2prOTVkNW5z)
-- **Website**: [https://mahadev-baby-shop.vercel.app/](https://mahadev-baby-shop.vercel.app/)
 
 
 ---

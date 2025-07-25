@@ -102,8 +102,8 @@ Create `.env.local` in the root directory:
 
 ```plaintext
 # Database
-MONGODB_URI=mongodb://localhost:27017/mahadev-baby-shop
-# or MongoDB Atlas: mongodb+srv://username:password@cluster.mongodb.net/mahadev-baby-shop
+MONGODB_URI=
+# or MongoDB Atlas:
 
 # Authentication (generate with: node -e "console.log(require('crypto').randomBytes(32).toString('hex'))")
 AUTH_SECRET=your-super-secret-key-here-minimum-32-characters
